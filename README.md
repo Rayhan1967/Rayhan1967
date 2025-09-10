@@ -17,9 +17,11 @@ GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true)
 
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayhan1967&theme=dracula)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rayhan1967&color=brightgreen)
-## 📈 GitHub Analytics
+
+📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan1967&theme=radical" />
