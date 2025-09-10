@@ -21,7 +21,7 @@ GitHub Stats
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayhan1967&theme=dracula)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rayhan1967&color=brightgreen)
 
-📈 GitHub Analytics
+GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan1967&theme=radical" />
@@ -30,7 +30,7 @@ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1967&layout=compact&theme=radical" />
 </p>
-## 🤝 Connect with Me
+Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,12 +52,12 @@ GitHub Stats
 </p>
 Tech Stack & Proficiency
 
-**DevOps & Cloud:**
+DevOps & Cloud:
 ![Docker](https://img.shields.io/badge/Docker-90%25-blue?style=flat-square&logo=docker)
 ![Azure](https://img.shields.io/badge/Azure-85%25-blue?style=flat-square&logo=microsoft-azure)
 ![Terraform](https://img.shields.io/badge/Terraform-80%25-purple?style=flat-square&logo=terraform)
 
-**Programming:**
+Programming:
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-85%25-green?style=flat-square&logo=node.js)
 🗓️ Learning Roadmap 2025
