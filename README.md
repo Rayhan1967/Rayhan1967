@@ -13,6 +13,6 @@ Tech Stack
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xexamray&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=0xexamray&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan1967&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true)
 
