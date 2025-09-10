@@ -5,7 +5,7 @@ Experienced with Azure, Docker, Terraform, and Kubernetes
 Developer portfolio: - [demo live](`http://userservice-demo-0xray.eastus.azurecontainer.io:3001`)
 Health Check: [demo](`http://userservice-demo-0xray.eastus.azurecontainer.io:3001/health`)
 Currently working on cloud-native microservices
-Reach me at [email@example.com](m.habibraihan1967@gmail.com)
+Reach me at [m.habibraihan1967@gmail.com](m.habibraihan1967@gmail.com)
 
 Tech Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -16,7 +16,6 @@ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan1967&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true)
 
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayhan1967&theme=dracula)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rayhan1967&color=brightgreen)
@@ -43,10 +42,10 @@ Connect with Me
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Rayhan1967/microservice-platform">
+  <a href="[https://github.com/Rayhan1967/microservice-platform](https://github.com/Rayhan1967/microservice-platform)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayhan1967&repo=user-service&theme=radical" />
   </a>
-  <a href="https://github.com/Rayhan1967/fluxband-network">
+  <a href="[https://github.com/Rayhan1967/fluxband-network](https://github.com/Rayhan1967/FluxBand-Network)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayhan1967&repo=another-project&theme=radical" />
   </a>
 </p>
