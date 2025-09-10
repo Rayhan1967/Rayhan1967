@@ -12,7 +12,6 @@ Tech Stack
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan1967&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true)
 
