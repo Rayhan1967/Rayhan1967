@@ -43,10 +43,10 @@ Connect with Me
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Rayhan1967/user-service">
+  <a href="https://github.com/Rayhan1967/microservice-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayhan1967&repo=user-service&theme=radical" />
   </a>
-  <a href="https://github.com/Rayhan1967/another-project">
+  <a href="https://github.com/Rayhan1967/fluxband-network">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayhan1967&repo=another-project&theme=radical" />
   </a>
 </p>
