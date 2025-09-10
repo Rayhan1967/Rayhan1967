@@ -41,14 +41,6 @@ Connect with Me
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
-<p align="center">
-  <a href="[https://github.com/Rayhan1967/microservice-platform](https://github.com/Rayhan1967/microservice-platform)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayhan1967&repo=user-service&theme=radical" />
-  </a>
-  <a href="[https://github.com/Rayhan1967/fluxband-network](https://github.com/Rayhan1967/FluxBand-Network)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayhan1967&repo=another-project&theme=radical" />
-  </a>
-</p>
 Tech Stack & Proficiency
 
 DevOps & Cloud:
