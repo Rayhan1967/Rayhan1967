@@ -30,7 +30,7 @@ GitHub Analytics
 </p>
 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/habib-raihan-206622383/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your@email.com">
@@ -50,7 +50,8 @@ DevOps & Cloud:
 Programming:
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-85%25-green?style=flat-square&logo=node.js)
-🗓️ Learning Roadmap 2025
+
+Learning Roadmap 2025
 - [x] Master Azure Container Instances ✅
 - [x] Deploy Microservices with Docker ✅
 - [ ] Advanced Kubernetes Orchestration 🔄
