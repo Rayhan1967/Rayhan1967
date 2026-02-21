@@ -16,9 +16,6 @@ Tech Stack
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan1967&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true)
-
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rayhan1967&theme=dracula)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rayhan1967&color=brightgreen)
