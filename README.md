@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Rayhan👋
-I'm a DevOps engineer and Node.js developer specializing in cloud infrastructure, containerization, and microservices.
+I'm a DevOps engineer and Golang Backend developer specializing in cloud infrastructure, containerization, and microservices.
 Passionate about DevOps automation & CI/CD pipelines
 Experienced with Azure, Docker, Terraform, and Kubernetes
 Developer portfolio: - [demo live](`http://userservice-demo-0xray.eastus.azurecontainer.io:3001`)
@@ -11,6 +11,10 @@ Tech Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan1967&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rayhan1967&show_icons=true)
@@ -50,10 +54,11 @@ DevOps & Cloud:
 Programming:
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-85%25-green?style=flat-square&logo=node.js)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
-Learning Roadmap 2025
+Learning Roadmap 2026
 - [x] Master Azure Container Instances ✅
 - [x] Deploy Microservices with Docker ✅
-- [ ] Advanced Kubernetes Orchestration 🔄
-- [ ] Terraform Infrastructure as Code 📅
+- [x] Advanced Kubernetes Orchestration 🔄
+- [x] Terraform Infrastructure as Code 📅
 - [ ] AWS Cloud Certification 📚
