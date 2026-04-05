@@ -3,16 +3,16 @@
 
 I specialize in building scalable cloud infrastructure, containerization, and high-performance microservices.
 
-- 🚀 **Passionate about:** DevOps automation & CI/CD pipelines.
-- 🛠️ **Expertise:** Azure, AWS, Docker, Terraform, and Kubernetes.
-- 🏗️ **Currently working on:** Cloud-native microservices architecture.
-- 📧 **Reach me at:** [m.habibraihan1967@gmail.com](mailto:m.habibraihan1967@gmail.com)
+- **Passionate about:** DevOps automation & CI/CD pipelines.
+- **Expertise:** Azure, AWS, Docker, Terraform, and Kubernetes.
+- **Currently working on:** Cloud-native microservices architecture.
+- **Reach me at:** [m.habibraihan1967@gmail.com](mailto:m.habibraihan1967@gmail.com)
 
 ---
 
-### 🌐 Live Demo & Portfolio
-- 🚀 **User Service Demo:** [Live Link](http://userservice-demo-0xray.eastus.azurecontainer.io:3001)
-- 🏥 **System Health Check:** [Status Page](http://userservice-demo-0xray.eastus.azurecontainer.io:3001/health)
+###  Live Demo & Portfolio
+- **User Service Demo:** [Live Link](http://userservice-demo-0xray.eastus.azurecontainer.io:3001)
+- **System Health Check:** [Status Page](http://userservice-demo-0xray.eastus.azurecontainer.io:3001/health)
 
 ---
 
